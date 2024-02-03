@@ -2,7 +2,7 @@
 
 
 
-# dependencies
+## dependencies
 
 langchain
 openai
@@ -14,7 +14,7 @@ pypdf
 pandas
 tabulate
 
-# 1. Text Processing
+## 1. Text Processing
 The system uses the RecursiveCharacterTextSplitter to process text from PDF files.
 # 2. Chain Setup
 A chat prompt template (ChatPromptTemplate) is created using the chainlit library to handle user interactions.
