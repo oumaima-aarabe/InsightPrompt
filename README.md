@@ -1,7 +1,5 @@
 # InsightPrompt
 
-
-
 ### dependencies
 
 langchain
